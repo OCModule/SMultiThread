@@ -1,0 +1,6 @@
+framework module Pods_SMultiThread_Tests {
+  umbrella header "Pods-SMultiThread_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

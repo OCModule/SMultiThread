@@ -4,6 +4,7 @@ platform :ios, '8.0'
 
 target 'SMultiThread_Example' do
   pod 'SMultiThread', :path => '../'
+  pod 'AFNetworking'
 
   target 'SMultiThread_Tests' do
     inherit! :search_paths
